@@ -1,4 +1,4 @@
-avatar: https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/avatar.png # 网站 Logo
+avatar: C:\Users\WauLi\Desktop\瓦无力\source\img # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
     path: https://i.dawnlab.me/b5a7e61560facdd5b8aa9683fce147d7.png
     width: 1280
@@ -107,7 +107,7 @@ widgets:
       enable: true
       options: 
         widgetLink: #链接组件
-            - title: 折影轻梦
+            - title: 瓦无力
               img: https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/avatar.png
               link : https://nexmoe.com/
 
