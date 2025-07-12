@@ -1,6 +1,6 @@
 avatar: /img/博客头像.png # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
-    path: 瓦无力\source\img
+    path: \img\博客背景.png
     width: 1280
     height: 726
 favicon:
@@ -35,7 +35,7 @@ menu:
         - /PY.html
     # 给我赞助:
     #    - https://nexmoe.com/donate.html
-    #     - icon-coffee
+        - icon-coffee
     关于博主:
         - https://i.nexmoe.com/
         - icon-info-circle
