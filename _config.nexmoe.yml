@@ -1,6 +1,6 @@
-avatar: C:\Users\WauLi\Desktop\瓦无力\source\img # 网站 Logo
+avatar: source\img\博客头像.jpg # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
-    path: C:\Users\WauLi\Desktop\瓦无力\source\img
+    path: 瓦无力\source\img
     width: 1280
     height: 726
 favicon:
