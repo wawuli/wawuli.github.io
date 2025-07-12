@@ -1,4 +1,4 @@
-avatar: source\img\博客头像.jpg # 网站 Logo
+avatar: /img/博客头像.png # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
     path: 瓦无力\source\img
     width: 1280
