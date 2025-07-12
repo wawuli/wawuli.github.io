@@ -33,9 +33,9 @@ menu:
         - icon-container
     我的朋友:
         - /PY.html
-    给我赞助:
-        - https://nexmoe.com/donate.html
-        - icon-coffee
+    # 给我赞助:
+    #    - https://nexmoe.com/donate.html
+    #     - icon-coffee
     关于博主:
         - https://i.nexmoe.com/
         - icon-info-circle
