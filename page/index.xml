@@ -21,7 +21,7 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://wawuli.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>This is a test page for i18n support.</description>
+        <description>本站诞生于一个凌晨两点的夜晚（寿命-1❤️‍🩹❤️‍🩹）。本人非计算机专业人士，此博客仅用于记录硬件学习日常👨🏼‍🔬、生活中的奇思妙想和一些</description>
         </item>
         <item>
         <title>搜索</title>
@@ -30,14 +30,6 @@
         
         <guid>https://wawuli.github.io/search/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>友情链接</title>
-        <link>https://wawuli.github.io/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://wawuli.github.io/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
-        <description>To use this feature, add links section to frontmatter. This page&amp;rsquo;s frontmatter: 1 2 3 4 5 6 7 8 9 links: - title: GitHub description: GitHub is the world&amp;#39;s largest software development platform. website: https://github.com image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png - title: TypeScript description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. website: https://www.typescriptlang.org image: ts-logo-128.jpg image field accepts both local and external images.</description>
         </item>
         
     </channel>
