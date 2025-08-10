@@ -1,33 +1,25 @@
 <!DOCTYPE html>
 <html lang="zh-cn" dir="ltr">
-    <head><meta charset='utf-8'>
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="">
-<title>归档</title>
+<title>搜索</title>
 
-<link rel='canonical' href='https://wawuli.github.io/archives/'>
+<link rel='canonical' href='http://localhost:1313/sear/'>
 
-<link rel="stylesheet" href="/scss/style.min.0304c6baf04e01a8fe70693791cb744d56a3578a3120a8796cefc66825aa39c7.css"><meta property='og:title' content="归档">
+<link rel="stylesheet" href="/scss/style.min.0304c6baf04e01a8fe70693791cb744d56a3578a3120a8796cefc66825aa39c7.css"><meta property='og:title' content="搜索">
 <meta property='og:description' content="">
-<meta property='og:url' content='https://wawuli.github.io/archives/'>
+<meta property='og:url' content='http://localhost:1313/sear/'>
 <meta property='og:site_name' content='WauLi'>
-<meta property='og:type' content='article'><meta property='article:section' content='Page' /><meta property='article:published_time' content='2019-05-28T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2019-05-28T00:00:00&#43;00:00'/>
-<meta name="twitter:title" content="归档">
-<meta name="twitter:description" content="">
+<meta property='og:type' content='article'><meta property='article:section' content='Page' />
+<meta name="twitter:title" content="搜索">
+<meta name="twitter:description" content=""><link rel="alternate" type="application/json" href="http://localhost:1313/sear/index.json">
     <link rel="shortcut icon" href="/%e5%8d%9a%e5%ae%a2%e5%a4%b4%e5%83%8f.ico" />
 
   
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"
-        onload="renderMathInElement(document.body,{
-          delimiters:[{left:'$$',right:'$$',display:true},{left:'$',right:'$',display:false}],
-          ignoredTags:['script','noscript','style','textarea','pre','code'],
-          throwOnError:false
-        });"></script>
-
+<link rel="preload" href="/sear/index.json" as="fetch" crossorigin="anonymous">
     </head>
-    <body class="template-archives">
+    <body class="template-search">
     <script>
         (function() {
             const colorSchemeKey = 'StackColorScheme';
@@ -142,7 +134,7 @@
         </li>
         
         
-        <li  class='current' >
+        <li >
             <a href='/archives/' >
                 
                 
@@ -162,8 +154,8 @@
         </li>
         
         
-        <li >
-            <a href='/search/' >
+        <li  class='current' >
+            <a href='/sear/' >
                 
                 
                 
@@ -210,77 +202,34 @@
 </aside>
 
             <main class="main full-width">
-    <header>
-        <h2 class="section-title">Categories</h2>
-        <div class="subsection-list">
-            <div class="article-list--tile">
-                
-                    
-<article class="has-image">
-    <a href="/categories/test/">
-        
-        
-            <div class="article-image">
-                <img src="/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.bec89fe99958d89413edc0f93688bdd6_hu12733615224671643161.jpg" 
-                        width="250" 
-                        height="150" 
-                        loading="lazy"
-                        alt="Featured image of post Test"
-                        data-key="test" 
-                        data-hash="md5-vsif6ZlY2JQT7cD5Noi91g==">
-                
-            </div>
-        
+<form action="/sear/" class="search-form"data-json="/sear/index.json">
+    <p>
+        <label>搜索</label>
+        <input name="keyword" placeholder="输入关键词..." />
+    </p>
 
-        <div class="article-details">
-            <h2 class="article-title">Test</h2>
-        </div>
-    </a>
-</article>
+    <button title="搜索">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
 
-                
-            </div>
-        </div>
-        
-    </header>
 
-    
-    
-    
 
-    
-    
-    <div class="archives-group" id="2025">
-        <h2 class="archives-date section-title"><a href="/archives/#2025">2025</a></h2>
-        <div class="article-list--compact">
-            
-                <article>
-    <a href="/p/test/">
-        <div class="article-details">
-            <h2 class="article-title">Test</h2>
-            <footer class="article-time">
-                <time datetime='2025-08-09T17:14:52&#43;08:00'>Aug 09, 2025</time>
-            </footer>
-        </div>
-    </a>
-</article>
-            
-                <article>
-    <a href="/p/test/">
-        <div class="article-details">
-            <h2 class="article-title">Test</h2>
-            <footer class="article-time">
-                <time datetime='2025-08-09T17:14:52&#43;08:00'>Aug 09, 2025</time>
-            </footer>
-        </div>
-    </a>
-</article>
-            
-        </div>
-    </div>
-    
+    </button>
+</form>
 
-    <footer class="site-footer">
+<div class="search-result">
+    <h3 class="search-result--title section-title"></h3>
+    <div class="search-result--list article-list--compact"></div>
+</div>
+
+<script>
+    window.searchResultTitleTemplate = "#PAGES_COUNT 个结果 （用时 #TIME_SECONDS 秒）"
+</script><script type="text/javascript" src="/ts/search.js" defer></script>
+
+<footer class="site-footer">
     <section class="copyright">
         &copy; 
         

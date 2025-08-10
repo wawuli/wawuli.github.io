@@ -6,31 +6,6 @@
         <description>Recent content in Test on WauLi</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>瓦无力 - WauLi</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wawuli.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Chinese Test</title>
-        <link>https://wawuli.github.io/p/test-chinese/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://wawuli.github.io/p/test-chinese/</guid>
-        <description>&lt;img src="https://wawuli.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;正文测试 而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的</description>
-        </item>
-        <item>
-        <title>Placeholder Text</title>
-        <link>https://wawuli.github.io/p/placeholder-text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://wawuli.github.io/p/placeholder-text/</guid>
-        <description>&lt;img src="https://wawuli.github.io/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Emoji Support</title>
-        <link>https://wawuli.github.io/p/emoji-support/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://wawuli.github.io/p/emoji-support/</guid>
-        <description>&lt;img src="https://wawuli.github.io/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-        </item>
-        
+        <copyright>瓦无力 - WauLi</copyright><atom:link href="https://wawuli.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

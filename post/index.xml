@@ -13,47 +13,16 @@
         <pubDate>Sat, 09 Aug 2025 17:14:52 +0800</pubDate>
         
         <guid>https://wawuli.github.io/p/test/</guid>
-        <description></description>
+        <description>$$\int_0^\infty e^{-x^2}\ dx=\frac{\sqrt{\pi}}{2}$$</description>
         </item>
         <item>
-        <title>Chinese Test</title>
-        <link>https://wawuli.github.io/p/test-chinese/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <title>Test</title>
+        <link>https://wawuli.github.io/p/test/</link>
+        <pubDate>Sat, 09 Aug 2025 17:14:52 +0800</pubDate>
         
-        <guid>https://wawuli.github.io/p/test-chinese/</guid>
-        <description>&lt;img src="https://wawuli.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;正文测试 而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的</description>
-        </item>
-        <item>
-        <title>Markdown Syntax Guide</title>
-        <link>https://wawuli.github.io/p/markdown-syntax-guide/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://wawuli.github.io/p/markdown-syntax-guide/</guid>
-        <description>&lt;img src="https://wawuli.github.io/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Placeholder Text</title>
-        <link>https://wawuli.github.io/p/placeholder-text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://wawuli.github.io/p/placeholder-text/</guid>
-        <description>&lt;img src="https://wawuli.github.io/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Math Typesetting</title>
-        <link>https://wawuli.github.io/p/math-typesetting/</link>
-        <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://wawuli.github.io/p/math-typesetting/</guid>
-        <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Emoji Support</title>
-        <link>https://wawuli.github.io/p/emoji-support/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://wawuli.github.io/p/emoji-support/</guid>
-        <description>&lt;img src="https://wawuli.github.io/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+        <guid>https://wawuli.github.io/p/test/</guid>
+        <description>$$ \int_0^\infty e^{-x^2},\mathrm{d}x = \frac{\sqrt{\pi}}{2} $$
+1 2 3 4 5 #include &amp;lt;stdio.h&amp;gt; int main(void){ printf(&amp;#34;ok\n&amp;#34;); return 0; } </description>
         </item>
         
     </channel>
