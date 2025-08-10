@@ -7,24 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>瓦无力 - WauLi</copyright>
-        <lastBuildDate>Sat, 09 Aug 2025 17:14:52 +0800</lastBuildDate><atom:link href="https://wawuli.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://wawuli.github.io/p/test/</link>
-        <pubDate>Sat, 09 Aug 2025 17:14:52 +0800</pubDate>
-        
-        <guid>https://wawuli.github.io/p/test/</guid>
-        <description>$$\int_0^\infty e^{-x^2}\ dx=\frac{\sqrt{\pi}}{2}$$</description>
-        </item>
-        <item>
-        <title>Test</title>
-        <link>https://wawuli.github.io/p/test/</link>
-        <pubDate>Sat, 09 Aug 2025 17:14:52 +0800</pubDate>
-        
-        <guid>https://wawuli.github.io/p/test/</guid>
-        <description>$$ \int_0^\infty e^{-x^2},\mathrm{d}x = \frac{\sqrt{\pi}}{2} $$
-1 2 3 4 5 #include &amp;lt;stdio.h&amp;gt; int main(void){ printf(&amp;#34;ok\n&amp;#34;); return 0; } </description>
-        </item>
-        <item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://wawuli.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
         <link>https://wawuli.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>

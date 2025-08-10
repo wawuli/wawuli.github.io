@@ -2,28 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on WauLi</title>
-        <link>https://wawuli.github.io/post/</link>
+        <link>http://localhost:1313/post/</link>
         <description>Recent content in Posts on WauLi</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>瓦无力 - WauLi</copyright>
-        <lastBuildDate>Sat, 09 Aug 2025 17:14:52 +0800</lastBuildDate><atom:link href="https://wawuli.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://wawuli.github.io/p/test/</link>
-        <pubDate>Sat, 09 Aug 2025 17:14:52 +0800</pubDate>
-        
-        <guid>https://wawuli.github.io/p/test/</guid>
-        <description>$$\int_0^\infty e^{-x^2}\ dx=\frac{\sqrt{\pi}}{2}$$</description>
-        </item>
-        <item>
-        <title>Test</title>
-        <link>https://wawuli.github.io/p/test/</link>
-        <pubDate>Sat, 09 Aug 2025 17:14:52 +0800</pubDate>
-        
-        <guid>https://wawuli.github.io/p/test/</guid>
-        <description>$$ \int_0^\infty e^{-x^2},\mathrm{d}x = \frac{\sqrt{\pi}}{2} $$
-1 2 3 4 5 #include &amp;lt;stdio.h&amp;gt; int main(void){ printf(&amp;#34;ok\n&amp;#34;); return 0; } </description>
-        </item>
-        
+        <copyright>瓦无力 - WauLi</copyright><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
