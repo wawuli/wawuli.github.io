@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Homes on WauLi</title>
-        <link>https://wawuli.github.io/home/</link>
-        <description>Recent content in Homes on WauLi</description>
+        <title>WauLi</title>
+        <link>http://localhost:1313/home/</link>
+        <description>Recent content on WauLi</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>瓦无力 - WauLi</copyright><atom:link href="https://wawuli.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>瓦无力 - WauLi</copyright><atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
