@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="zh-cn" dir="ltr">
     <head><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="电容的原理及结构 电容是由两个金属板夹着绝缘介质组成。当给电容通入直流电，负电荷会从直流电的负极流出，聚集在电容靠近负极的金属板,电源正极抽走">
-<title>基础元器件 - 电容</title>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="电阻 电阻是在电路中阻碍电流流动的一种器件，是组成电路的三大基础元器件之一，单位是 “ Ω（欧姆） ”。 $$ R=U/I $$ 电阻分为固定电阻、可调电阻、敏感电阻，">
+<title>基础元器件 - 电阻</title>
 
 <link rel='canonical' href='https://wawuli.github.io/p/%E5%85%83%E5%99%A8%E4%BB%B6/'>
 
-<link rel="stylesheet" href="/scss/style.min.0304c6baf04e01a8fe70693791cb744d56a3578a3120a8796cefc66825aa39c7.css"><meta property='og:title' content="基础元器件 - 电容">
-<meta property='og:description' content="电容的原理及结构 电容是由两个金属板夹着绝缘介质组成。当给电容通入直流电，负电荷会从直流电的负极流出，聚集在电容靠近负极的金属板,电源正极抽走">
+<link rel="stylesheet" href="/scss/style.min.0304c6baf04e01a8fe70693791cb744d56a3578a3120a8796cefc66825aa39c7.css"><meta property='og:title' content="基础元器件 - 电阻">
+<meta property='og:description' content="电阻 电阻是在电路中阻碍电流流动的一种器件，是组成电路的三大基础元器件之一，单位是 “ Ω（欧姆） ”。 $$ R=U/I $$ 电阻分为固定电阻、可调电阻、敏感电阻，">
 <meta property='og:url' content='https://wawuli.github.io/p/%E5%85%83%E5%99%A8%E4%BB%B6/'>
 <meta property='og:site_name' content='WauLi'>
-<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2025-09-13T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2025-09-13T00:00:00&#43;00:00'/>
-<meta name="twitter:title" content="基础元器件 - 电容">
-<meta name="twitter:description" content="电容的原理及结构 电容是由两个金属板夹着绝缘介质组成。当给电容通入直流电，负电荷会从直流电的负极流出，聚集在电容靠近负极的金属板,电源正极抽走">
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2025-10-06T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2025-10-06T00:00:00&#43;00:00'/>
+<meta name="twitter:title" content="基础元器件 - 电阻">
+<meta name="twitter:description" content="电阻 电阻是在电路中阻碍电流流动的一种器件，是组成电路的三大基础元器件之一，单位是 “ Ω（欧姆） ”。 $$ R=U/I $$ 电阻分为固定电阻、可调电阻、敏感电阻，">
     <link rel="shortcut icon" href="/%e5%8d%9a%e5%ae%a2%e5%a4%b4%e5%83%8f.ico" />
 
   
@@ -233,11 +233,13 @@
         <div class="widget--toc">
             <nav id="TableOfContents">
   <ol>
-    <li><a href="#电容的原理及结构">电容的原理及结构</a></li>
-    <li><a href="#不同电容的参数对比">不同电容的参数对比</a></li>
-    <li><a href="#电容用途">电容用途</a>
+    <li><a href="#电阻">电阻</a></li>
+    <li><a href="#电阻的作用">电阻的作用</a>
       <ol>
-        <li><a href="#图片测试">图片测试</a></li>
+        <li><a href="#emspemsp-限流">   限流：</a></li>
+        <li><a href="#emspemsp-分压">   分压：</a></li>
+        <li><a href="#emspemsp-上下拉">   上下拉：</a></li>
+        <li><a href="#emspemsp-阻抗匹配">   阻抗匹配：</a></li>
       </ol>
     </li>
   </ol>
@@ -267,7 +269,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/p/%E5%85%83%E5%99%A8%E4%BB%B6/">基础元器件 - 电容</a>
+            <a href="/p/%E5%85%83%E5%99%A8%E4%BB%B6/">基础元器件 - 电阻</a>
         </h2>
     
         
@@ -289,7 +291,7 @@
   <path d="M3 11h16" />
   <path d="M18 16.496v1.504l1 1" />
 </svg>
-                <time class="article-time--published">Sep 13, 2025</time>
+                <time class="article-time--published">Oct 06, 2025</time>
             </div>
         
 
@@ -304,7 +306,7 @@
 
 
                 <time class="article-time--reading">
-                    阅读时长: 2 分钟
+                    阅读时长: 1 分钟
                 </time>
             </div>
         
@@ -319,89 +321,22 @@
     <section class="article-content">
     
     
-    <h2 id="电容的原理及结构">电容的原理及结构
-</h2><p>  电容是由两个金属板夹着绝缘介质组成。当给电容通入直流电，负电荷会从直流电的负极流出，聚集在电容靠近负极的金属板,电源正极抽走相同数量的负电荷，这样负电荷就在电路中流动起来，形成了电流（电流方向与负电荷方向相反），当电容充满，电容电压等于电源电压，负电荷就不会移动，也就没有了电流。<br>
-  以下是电容和电荷的计算公式：  <!-- &emsp表示一个字符的空格 -->
+    <h2 id="电阻">电阻
+</h2><p>  电阻是在电路中阻碍电流流动的一种器件，是组成电路的三大基础元器件之一，单位是 “ Ω（欧姆） ”。 <!-- &emsp表示一个字符的空格 -->
 $$
-C = \frac{\varepsilon S}{d} = \frac{\varepsilon_0 \varepsilon_r S}{d}
-$$</p>
-<p>$$
-Q=CV\quad
+R=U/I
 $$
-Q：表示电荷量<br>
-C：表示电容量<br>
-V：表示电容两边施加的电压<br>
-ε：表示绝缘介质的的电容率<br>
-$ε_0$：表示真空电容率（一个固定值）<br>
-$ε_r$：表示绝缘介质的相对电容率</p>
-<p>  此时电路断开，电容接入一个负载，负电荷会从电容的负极流向正极，电容两端的电压开始同步降低。在放电过程中，电压是呈指数式衰减，永远无法降到绝对0V。以下是电容的放电时间公式：
-$$
-t = -RC \cdot \ln\left(\frac{V(t)}{V_0}\right)
-$$</p>
-<p>V(t)：放电时刻的电压。<br>
-V0：电容初始电压（充电时的电压）。<br>
-R：电路中的电阻。<br>
-C：电容的电容值。<br>
-t：时间。</p>
-<h2 id="不同电容的参数对比">不同电容的参数对比
-</h2><div class="table-wrapper"><table>
-<thead>
-<tr>
-<th style="text-align:center"></th>
-<th style="text-align:center">钽电容</th>
-<th style="text-align:center">陶瓷电容</th>
-<th style="text-align:center">电解电容</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">容值</td>
-<td style="text-align:center">1uF~1000uF</td>
-<td style="text-align:center">1pF~1000uF</td>
-<td style="text-align:center">10uF~1000uF</td>
-</tr>
-<tr>
-<td style="text-align:center">耐压</td>
-<td style="text-align:center">低（最高至50V）</td>
-<td style="text-align:center">宽（几V到几千V）</td>
-<td style="text-align:center">高（最高可达上千V）</td>
-</tr>
-<tr>
-<td style="text-align:center">ESR</td>
-<td style="text-align:center">低</td>
-<td style="text-align:center">较低</td>
-<td style="text-align:center">较高</td>
-</tr>
-<tr>
-<td style="text-align:center">价格</td>
-<td style="text-align:center">贵</td>
-<td style="text-align:center">便宜</td>
-<td style="text-align:center">较便宜</td>
-</tr>
-<tr>
-<td style="text-align:center">应用场景</td>
-<td style="text-align:center">低电压、小体积、高稳定性要求的电路</td>
-<td style="text-align:center">高频去耦、滤波、定时、振荡等电路</td>
-<td style="text-align:center">大电流电源电路、电源滤波等</td>
-</tr>
-</tbody>
-</table></div>
-<h2 id="电容用途">电容用途
-</h2><p>  滤波：电容对于高频信号有较低的阻抗，对于低频信号有较高的阻抗。因此，它能够过滤掉信号中的高频噪声，保持低频信号（如直流电压）稳定。<br>
-  延时：利用电容的充放电时间来控制信号的时间延迟。<br>
-  耦合：利用电容的通高频阻低频的特性可以作为一些高频信号的隔离。<br>
-  旁路：给高频噪声信号提供一个低阻抗路径，旁路掉高频噪声信号。</p>
-<h3 id="图片测试">图片测试
-</h3><p><img src="/post/%e7%94%b5%e5%ae%b9/%e5%b8%b8%e8%a7%81%e7%94%b5%e5%ae%b9.png"
-	
-	
-	
-	loading="lazy"
-	
-		alt="常见电容"
-	
-	
-></p>
+  电阻分为固定电阻、可调电阻、敏感电阻，其中敏感电阻的阻值会随着环境变化而变化，如光敏电阻、压敏电阻。根据封装还分为贴片电阻和直插电阻。<br>
+  它的参数有标称阻值、允许误差、额定功率、温度系数。其中温度系数表示在单位温度下阻值的变化范围,变化范围很小。这个和敏感电阻不一样，敏感电阻的变化范围非常大。</p>
+<h2 id="电阻的作用">电阻的作用
+</h2><h3 id="emspemsp-限流">   限流：
+</h3><p>    在电路中有的时候需要限制电流的大小，这个时候就可以串联一个合适阻值的电阻来限流，最常用的时候LED电路了。</p>
+<h3 id="emspemsp-分压">   分压：
+</h3><p>    在一些电源电路，尤其是DCDC芯片，经常会使用到电阻进行分压。</p>
+<h3 id="emspemsp-上下拉">   上下拉：
+</h3><p>    给一个不确定的信号默认电平，比如一些芯片的使能引脚，默认加一个上下电阻，让他默认使能或者失能，再由主控芯片控制。或者一些IO无法给出高电平或者低电平，可以加一个上下拉电阻来保证控制信号的完整，比如I2C需要一个上拉电阻。</p>
+<h3 id="emspemsp-阻抗匹配">   阻抗匹配：
+</h3><p>    信号在经过阻抗不同的方式会发生反射，类似于光穿过不同介质时也会发生反射，这个时候串联一个电阻进行阻抗匹配来吸收反射回来的信号，能够抑制振铃、减小EMI、提高信号质量。</p>
 
 </section>
 
@@ -442,6 +377,28 @@ t：时间。</p>
     
 
     
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/p/%E5%85%83%E5%99%A8%E4%BB%B6/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">基础元器件 - 电容</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
 
      
     

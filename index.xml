@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>瓦无力 - WauLi</copyright>
-        <lastBuildDate>Sat, 13 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wawuli.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wawuli.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>基础元器件 - 电阻</title>
+        <link>https://wawuli.github.io/p/%E5%85%83%E5%99%A8%E4%BB%B6/</link>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://wawuli.github.io/p/%E5%85%83%E5%99%A8%E4%BB%B6/</guid>
+        <description>电阻 电阻是在电路中阻碍电流流动的一种器件，是组成电路的三大基础元器件之一，单位是 “ Ω（欧姆） ”。 $$ R=U/I $$ 电阻分为固定电阻、可调电阻、敏感电阻，</description>
+        </item>
+        <item>
         <title>基础元器件 - 电容</title>
         <link>https://wawuli.github.io/p/%E5%85%83%E5%99%A8%E4%BB%B6/</link>
         <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
