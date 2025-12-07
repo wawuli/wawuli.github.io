@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>瓦无力 - WauLi</copyright>
-        <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wawuli.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wawuli.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>阻抗匹配</title>
+        <link>https://wawuli.github.io/p/%E9%98%BB%E6%8A%97%E5%8C%B9%E9%85%8D/</link>
+        <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://wawuli.github.io/p/%E9%98%BB%E6%8A%97%E5%8C%B9%E9%85%8D/</guid>
+        <description>阻抗 想要知道是什么是阻抗匹配，必须要了解什么是阻抗？阻抗是指在高频电路或交流电路中阻碍电流的物理量；电阻是指在直流电路中阻碍电流的物理量。阻</description>
+        </item>
+        <item>
         <title>基础元器件 - 电阻</title>
         <link>https://wawuli.github.io/p/%E7%94%B5%E9%98%BB/</link>
         <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>

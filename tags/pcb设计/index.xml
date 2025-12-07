@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>PCB设计 on WauLi</title>
+        <link>http://localhost:1313/tags/pcb%E8%AE%BE%E8%AE%A1/</link>
+        <description>Recent content in PCB设计 on WauLi</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>瓦无力 - WauLi</copyright>
+        <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pcb%E8%AE%BE%E8%AE%A1/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>阻抗匹配</title>
+        <link>http://localhost:1313/p/%E9%98%BB%E6%8A%97%E5%8C%B9%E9%85%8D/</link>
+        <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/%E9%98%BB%E6%8A%97%E5%8C%B9%E9%85%8D/</guid>
+        <description>电阻 电阻是在电路中阻碍电流流动的一种器件，是组成电路的三大基础元器件之一，单位是 “ Ω（欧姆） ”。 $$ R=U/I $$ 电阻分为固定电阻、可调电阻、敏感电阻，</description>
+        </item>
+        
+    </channel>
+</rss>
